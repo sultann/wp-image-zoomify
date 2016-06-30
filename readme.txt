@@ -1,4 +1,4 @@
-=== What Template ===
+=== WP Image Zoomify ===
 Contributors: sultann
 Tags: image light box, image zoom, image popup, smooth image popup, zoomify
 Requires at least: 3.1
