@@ -39,3 +39,4 @@ Use the automatic installer on the 'Plugins' page, or upload the unzipped plugin
 = 0.1 =
 
 * initial plugin version
+
